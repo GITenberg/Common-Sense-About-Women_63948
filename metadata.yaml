@@ -1,0 +1,28 @@
+_repo: Common-Sense-About-Women_63948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+description: ''
+gutenberg_issued: '2020-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63948'
+  lccn: 09002721
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights -- United States'
+- !lcsh 'Women''s rights'
+- !lcc 'HQ'
+- GITenberg
+title: Common Sense About Women
+url: http://www.gutenberg.org/ebooks/63948
